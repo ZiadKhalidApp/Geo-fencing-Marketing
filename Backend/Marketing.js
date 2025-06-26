@@ -50,7 +50,7 @@ const geofenceCoordinates = [
   const currentLongitude = -122.4194; // Example current longitude
   
   if (checkGeofence(currentLatitude, currentLongitude)) {
-    console.log("Device is within the geofence");
+    console.log("Device is within the given geofence");
   } else {
     console.log("Device is outside the geofence");
   }

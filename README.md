@@ -1,5 +1,5 @@
 # Geo-fencing-Marketing-for-Fast-Food-and-Restaurants
-Couch Potato is an innovative mobile application designed to revolutionize the way restaurants interact with their  customers. This project combines geofencing marketing, semantic analysis of customer comments, and web  scraping techniques to provide restaurants with insights and enhanced marketing capabilities.
+Couch Potato is an innovative mobile application designed to revolutionize the way restaurants interact with their  customers. This project combines geofencing marketing, analysis of customer comments, and web  scraping techniques to provide restaurants with valuable insights and enhanced marketing capabilities.
 
 # Screenshots - CouchPotato
 
